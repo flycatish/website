@@ -1,2 +1,4 @@
+~/project/website/.gitignore
+.DS_Store
 *~
 TMP/
